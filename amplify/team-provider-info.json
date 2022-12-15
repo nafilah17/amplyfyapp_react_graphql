@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplyfyappreactgraph9e88b446": {}
+      },
+      "api": {
+        "amplyfyappreactgraph": {}
       }
     }
   }

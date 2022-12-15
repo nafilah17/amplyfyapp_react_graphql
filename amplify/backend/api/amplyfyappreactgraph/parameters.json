@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "amplyfyappreactgraph",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
