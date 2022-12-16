@@ -17,6 +17,9 @@
       },
       "api": {
         "amplyfyappreactgraph": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
